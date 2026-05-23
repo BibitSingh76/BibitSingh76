@@ -1,5 +1,5 @@
-# 💫 About Me:
- 👋 Hello, I'm Bibit Singh!<br><br>💻 Aspiring Software Developer | C++ Programmer | Full Stack Web Dev Learner  <br><br>---<br><br>## 🚀 About Me<br><br>📚 Solved 400+ DSA problems using C++.  <br>🌱 Currently learning Full Stack Web Development.  <br>⚙️ Building projects with Node.js, Express.js & MongoDB.  <br>🎯 Focused on writing clean and efficient code.<br><br>---<br>
+# 👋 Hello, I'm Bibit Singh!
+ <br>💻 Aspiring Software Developer | C++ Programmer | Full Stack Web Dev Learner  <br><br>## 🚀 About Me<br><br>📚 Solved 400+ DSA problems using C++.  <br>🌱 Currently learning Full Stack Web Development.  <br>⚙️ Building projects with Node.js, Express.js & MongoDB.  <br>🎯 Focused on writing clean and efficient code.<br><br>
 
 
 ## 🌐 Socials:
